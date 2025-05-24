@@ -1,0 +1,38 @@
+/bin/
+# Fichiers de base de données
+*.db
+*.sqlite
+*.sql
+
+# Fichiers secrets
+.env
+
+# Logs
+*.log
+
+# Eclipse folders
+.project
+.classpath
+.settings/
+
+# Java build
+target/
+*.class
+
+# IDEs
+.idea/
+
+APP-RECLAMATION-master
+
+# Ignore Windows system folders
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+Downloads/
